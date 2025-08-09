@@ -1,47 +1,55 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Pixelify 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Mitmik
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Pareekshith K R CET Trivandrum
+
 
 ### Project Description
-[2-3 lines about what your project does]
-
+Upload any picture, and we’ll smash it into colorful confetti arranged by wavelength — yes, physics meets potato art! Then guess which color is boss in a silly game that unlocks new funky shapes. Warning: May cause rainbow addiction.
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Ever stared at an image and wondered, “What if my photo was a psychedelic banana or a starburst of colors ordered by actual science?” Neither have we, but now you can live that dream.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We take your pixels, map their secret wavelengths (because colors have secrets too), and splatter them into weird shapes like circles, bananas, and stars. Then we challenge your color IQ with a guessing game — win points, unlock shapes, and bask in glory.
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Software:
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+JavaScript / TypeScript (because why not?)
+
+React, the wizard behind the curtain
+
+HTML5 Canvas & SVG for colorful magic
+
+Sass/ CSS for all the rainbows
+
+Browser APIs: the gatekeepers of your photos
+
+Hardware:
+
+Your trusty device running a modern browser (no magic wands required)
+
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/PareekshithKR/Pixlr.git
+cd Pixlr
+npm install
+
 
 # Run
-[commands]
+npm start
 
 ### Project Documentation
 For Software:
